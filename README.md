@@ -18,9 +18,8 @@ This is a vendor-based ecommerce platform built on **Laravel 8**. It allows mult
 - PHP 7.3 or higher
 - Composer
 - Laravel 8.x
-- MySQL or PostgreSQL
+- MySQL
 - Node.js and npm (for frontend assets)
-- Redis (for caching and queues, optional but recommended)
 
 ## Installation
 
